@@ -1,0 +1,13 @@
+Connect buttons with methods.
+Create player attribute.
+
+Player switching.
+Button text update
+check for winner -> Row, Column, Diagonally
+check for draw
+
+reset method
+
+diable button
+
+winner declare..
