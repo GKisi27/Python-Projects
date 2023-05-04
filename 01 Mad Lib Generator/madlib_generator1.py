@@ -25,3 +25,4 @@ story = f'It was a {adjective1}, cold November day. I woke up to the \
 
 
 print(story)
+print(story)
